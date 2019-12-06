@@ -1,13 +1,13 @@
 [
 	{
 		"useBackgroundColour" : "true",
-		"backgroundColour" : "20,20,20",
+		"backgroundColour" : "00,00,90",
 		"useBackgroundImage" : "false",
 		"backgroundImagePath" : "images/backgroundImg7.jpg",
 		"useTextColour" : "false",
 		"textColour" : "0,0,0",
 		"useBoldText" : "false",
-		"serverTitle" : "Insert Server Name Here",
+		"serverTitle" : "Beyond Earth RolePlay",
 		"playAudioInBackground" : "true",
 		"YTVideoID" : "HPc8QMycGno",
 		"videoVolume" : "5"
@@ -22,21 +22,21 @@
 		"rule7" : "Use common sense"
 	},
 	{
-		"servers1" : "Website: www.asdf.com",
-		"servers2" : "Teamspeak: 123.45.67.8",
-		"servers3" : "Discord: http://discord.gg/asdf123",
+		"servers1" : "Website: DERP!",
+		"servers2" : "Teamspeak: ERP DERP!",
+		"servers3" : "Discord: https://discord.gg/eeUjgP5",
 		"servers4" : "",
-		"servers5" : "",
-		"servers6" : "",
-		"servers7" : ""
+		"servers5" : "This whole thing is new.",
+		"servers6" : "join us while its raw!",
+		"servers7" : "-(ps: help! is there a 911 for programming?)"
 	},
 	{
-		"content1" : "Character Customization",
-		"content2" : "Purchasable & Storable Vehicles",
-		"content3" : "Whitelisted Police & EMT Force",
-		"content4" : "Multiple Jobs (mining, fishing, drugs, etc)",
-		"content5" : "Banks & ATMs",
-		"content6" : "Custom Vehicle Models",
-		"content7" : "Cellphone Messaging & Calling"
+		"content1" : "(WIP) Character Customization",
+		"content2" : "(WIP) Purchasable & Storable Vehicles",
+		"content3" : "(WIP) Whitelisted Police & EMT Force",
+		"content4" : "(WIP) Multiple Jobs (mining, fishing, drugs, etc)",
+		"content5" : "(WIP) Banks & ATMs",
+		"content6" : "(WIP) Custom Vehicle Models",
+		"content7" : "(WIP) Cellphone Messaging & Calling"
 	}
 ]
